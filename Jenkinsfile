@@ -2,7 +2,7 @@ pipeline
 {
     agent
     {
-        label 'linux-node'
+        label 'linux_node'
     }
     tools
     {
